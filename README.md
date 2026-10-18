@@ -8,8 +8,14 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-teal.svg)](https://tailwindcss.com/)
 [![JSZip](https://img.shields.io/badge/JSZip-3.10-orange.svg)](https://stuk.github.io/jszip/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Deploy to GitHub Pages](https://github.com/vikashs292008-debug/steer-clubs-ps1/actions/workflows/deploy.yml/badge.svg)](https://github.com/vikashs292008-debug/steer-clubs-ps1/actions/workflows/deploy.yml)
+
+### 🚀 Live Deployments & Repository
+* **Live Web App**: [https://vikashs292008-debug.github.io/steer-clubs-ps1/](https://vikashs292008-debug.github.io/steer-clubs-ps1/)
+* **GitHub Repository**: [https://github.com/vikashs292008-debug/steer-clubs-ps1](https://github.com/vikashs292008-debug/steer-clubs-ps1)
 
 ---
+
 
 ## 1. Executive Summary & Product Vision
 
